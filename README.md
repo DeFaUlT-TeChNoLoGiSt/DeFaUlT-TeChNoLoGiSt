@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Default TechNologist</h1>
 <h3 align="center">I Love learn More About World and live in The internet .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=default-technologist&label=Profile%20views&color=0e75b6&style=flat" alt="default-technologist" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=default-technologist&label=Profile%20views&color=e60000&style=flat" alt="default-technologist" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=default-technologist" alt="default-technologist" /></a> </p>
 
@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elliot269"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elliot269" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=default-technologist&show_icons=true&locale=en&layout=compact" alt="default-technologist" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=default-technologist&show_icons=true&theme=dark&locale=en&layout=compact" alt="default-technologist" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=default-technologist&show_icons=true&locale=en" alt="default-technologist" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=default-technologist&show_icons=true&theme=dark&locale=IR" alt="default-technologist" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=default-technologist&" alt="default-technologist" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=default-technologist&theme=dark" alt="default-technologist" /></p>
